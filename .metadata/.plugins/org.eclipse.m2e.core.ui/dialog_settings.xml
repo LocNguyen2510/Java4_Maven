@@ -19,6 +19,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Java_All"/>
 			<item value="D:\Java_All\DemoMaven"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -43,15 +44,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="dinhloc.vn.WebDemo2"/>
-			<item value="dinhloc.vn.WebDemo"/>
 		</list>
 		<list key="groupId">
-			<item value="dinhloc.vn"/>
 		</list>
 		<list key="artifactId">
-			<item value="WebDemo2"/>
-			<item value="WebDemo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -67,10 +63,12 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="vn.dinhloc"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="ViDuSwing"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
