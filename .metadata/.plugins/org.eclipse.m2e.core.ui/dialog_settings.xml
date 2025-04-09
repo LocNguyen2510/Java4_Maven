@@ -44,15 +44,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="WebMayTinh"/>
-			<item value="org.ThuVienMayTinh"/>
 		</list>
 		<list key="groupId">
-			<item value="vn.dinhloc"/>
 		</list>
 		<list key="artifactId">
-			<item value="WebMayTinh"/>
-			<item value="ThuVienMayTinh"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -63,7 +58,6 @@
 			<item value="[name]"/>
 		</list>
 		<list key="version">
-			<item value="1.0"/>
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
 	</section>
@@ -74,6 +68,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="ViDuVeTest"/>
 			<item value="WebMayTinh"/>
 			<item value="maytinh"/>
 		</list>
