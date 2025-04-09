@@ -53,6 +53,11 @@
 			<artifactId>tomcat-catalina-ha</artifactId>
 			<version>9.0.67</version>
 		</dependency>
+		<dependency>
+			<groupId>vn.dinhloc</groupId>
+			    <artifactId>ThuVienMayTinh</artifactId>
+  <version>1.0</version>
+		</dependency>
 		
 	</dependencies>
 

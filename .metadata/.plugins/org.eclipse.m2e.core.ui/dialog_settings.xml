@@ -44,10 +44,38 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="WebMayTinh"/>
+			<item value="org.ThuVienMayTinh"/>
 		</list>
 		<list key="groupId">
+			<item value="vn.dinhloc"/>
 		</list>
 		<list key="artifactId">
+			<item value="WebMayTinh"/>
+			<item value="ThuVienMayTinh"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="1.0"/>
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="vn.dinhloc"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="WebMayTinh"/>
+			<item value="maytinh"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -61,14 +89,10 @@
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
 	</section>
-	<section name="MavenProjectWizardArtifactPage">
-		<list key="groupId">
-			<item value="vn.dinhloc"/>
-		</list>
-		<list key="name">
-		</list>
-		<list key="artifactId">
-			<item value="ViDuSwing"/>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+			<item value="WebMayTinh"/>
+			<item value="ThuVienMayTinh"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -77,9 +101,6 @@
 			<item value="[groupId].[artifactId]"/>
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
-		</list>
-		<list key="version">
-			<item value="0.0.1-SNAPSHOT"/>
 		</list>
 	</section>
 </section>
