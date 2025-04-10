@@ -4525,3 +4525,8 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated 
 2025-04-09 19:19:09,773 [Worker-39: Launching ViDuVeTest (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\Java_All\ViDuVeTest":
 2025-04-09 19:19:09,773 [Worker-39: Launching ViDuVeTest (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always test -Dtest="TestMayTinh#testPhepTru"
 2025-04-09 19:45:24,787 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-10 19:03:27,717 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-04-10 19:07:53,717 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-10 19:07:53,721 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java_All\DemoMaven\src\main\resources
+2025-04-10 19:07:53,728 [Worker-35: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-04-10 19:07:53,729 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java_All\DemoMaven\src\test\resources
