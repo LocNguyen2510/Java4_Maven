@@ -7,6 +7,6 @@ public class MayTinh {
 
 	public static double tru(double a, double b) {
 		return a - b;
-//	return a-b;
+
 	}
 }
